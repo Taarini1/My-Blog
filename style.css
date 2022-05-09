@@ -1,0 +1,11 @@
+.img{
+    width:100%;
+}
+.border{
+  
+    border: 5px solid red;
+}
+
+.page-header{
+    font-size:35px;
+}
